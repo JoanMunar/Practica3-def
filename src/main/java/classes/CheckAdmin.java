@@ -16,6 +16,9 @@ import java.sql.SQLException;
 /**
  * Created by aleat on 20/02/2017.
  */
+
+//Intent de fer un servlet per a detectar si es tracta de un usuari o un admin quan iniciam sessio...
+
 public class CheckAdmin extends HttpServlet {
 
     @Override

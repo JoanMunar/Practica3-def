@@ -58,6 +58,7 @@
             <web-resource-name>wrcoll</web-resource-name>
             <url-pattern>/*</url-pattern>
         </web-resource-collection>
+
         <auth-constraint>
             <role-name>admin</role-name>
             <role-name>user</role-name>
